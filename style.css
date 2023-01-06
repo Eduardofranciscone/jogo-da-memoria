@@ -81,3 +81,19 @@ body{
     grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
     gap: 20px;
 }
+
+@media screen and (max-width:500px){
+    #gameBoard{
+        padding: 10px;
+    }
+    .card{
+        width: 100px;
+        height: 100px;
+    }
+}
+@media screen and (max-width:450px){
+    .card{
+        width: 95px;
+        height: 95px;
+    }
+}
