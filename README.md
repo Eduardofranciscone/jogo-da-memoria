@@ -7,4 +7,4 @@
     <li>JavaScript</li>
   </ul>
   <ul>
- <li> <a href="https://dulcet-taiyaki-af049c.netlify.app/">Abrir Projeto</li>
+ <li> <a href="https://harmonious-pasca-6163f5.netlify.app/">Abrir Projeto</li>
