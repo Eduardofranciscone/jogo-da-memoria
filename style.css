@@ -93,7 +93,7 @@ body{
 }
 @media screen and (max-width:450px){
     .card{
-        width: 95px;
-        height: 95px;
+        width: 80px;
+        height: 85px;
     }
 }
